@@ -10,7 +10,7 @@ function createAdder(numberToAdd) {
 
 }
 const add5 = createAdder(5);
-console.log(add5(10));
+console.log(add5());
 
 
 //2. Write a recursive function that searches an array for a specific value. The
